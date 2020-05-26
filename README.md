@@ -1,5 +1,8 @@
 # Python-ramblings-on-the-web
 Mostly codes from classes taken from https://zerotomastery.io/academy/ and other Udemy activities
 
+WARNING : in order to run the codes file_names have to be changed. No numbers are aloud at the beginning of the 
+
 Project Listing
-1.  Send Emails via Python
+
+2. Watermarking PDFs - work in progress
