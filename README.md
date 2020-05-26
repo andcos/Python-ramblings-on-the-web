@@ -6,3 +6,6 @@ WARNING : in order to run the codes file_names have to be changed. No numbers ar
 Project Listing
 
 2. Watermarking PDFs - work in progress
+
+Great PDFs Codes
+https://realpython.com/pdf-python/#how-to-merge-pdfs
