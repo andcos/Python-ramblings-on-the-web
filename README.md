@@ -3,3 +3,5 @@ Mostly codes from classes taken from https://zerotomastery.io/academy/ and other
 
 Project Listing
 1.  Send Emails via Python
+2.  Watermark PDFS
+3.  Password Code from have i been pwned
